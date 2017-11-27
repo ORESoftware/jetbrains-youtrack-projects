@@ -1,0 +1,21 @@
+ [suman] Suman usage warning => Could not load your suman.globals.js file. 
+ [suman] Error: Cannot find module '/Users/alexamil/suman-test/simple2/.suman/suman.globals.js' 
+ [suman]     at Function.Module._resolveFilename (module.js:469:15)
+ [suman]     at Function.Module._load (module.js:417:25)
+ [suman]     at Module.require (module.js:497:17)
+ [suman]     at require (internal/module.js:20:19)
+ [suman]     at Object.<anonymous> (/Users/alexamil/suman-test/simple2/node_modules/suman/lib/runner-helpers/run-child.js:100:5)
+ [suman]     at Module._compile (module.js:570:32)
+ [suman]     at Object.Module._extensions..js (module.js:579:10)
+ [suman]     at Module.load (module.js:487:32)
+ [suman]     at tryModuleLoad (module.js:446:12)
+ [suman]     at Function.Module._load (module.js:438:3)
+ [suman 'tap-json-reporter']  "tap-json-reporter" warning: suman inception level is 0, we may not need to load this reporter.
+ [suman] Could not load <suman.hook.js> at path "/Users/alexamil/suman-test/simple2/.suman/suman.hooks.js". 
+ [suman] Could not load <suman.once.pre.js> at path "/Users/alexamil/suman-test/simple2/.suman/suman.once.pre.js". 
+ [suman] Could not load <suman.ioc.js> file at path "/Users/alexamil/suman-test/simple2/.suman/suman.ioc.js". 
+ [suman] Could not load <suman.once.post.js> file at path "/Users/alexamil/suman-test/simple2/.suman/suman.once.post.js". 
+ [suman] Could not load <suman.ioc.static.js> file at path "/Users/alexamil/suman-test/simple2/.suman/suman.ioc.static.js". 
+{"@tap-json":true,"ok":true,"desc":"works","filePath":"/Users/alexamil/suman-test/simple2/one.test.js","id":1,"dateComplete":1511743110843,"dateStarted":1511743110842}
+ [suman] client connected. 
+this is the end of the Suman test stream.

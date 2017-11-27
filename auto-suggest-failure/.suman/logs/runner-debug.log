@@ -1,0 +1,41 @@
+
+
+### Suman runner start ###
+
+Beginning of run at 1511743110198 = [Sun Nov 26 2017 16:38:30 GMT-0800 (PST)]
+Suman command issued from the following directory "/Users/alexamil/suman-test/simple2"
+Suman "process.argv" => 
+[ '/Users/alexamil/.nvm/versions/node/v6.10.2/bin/node',
+  '/Users/alexamil/suman-test/simple2/node_modules/suman/cli.js',
+  '/Users/alexamil/suman-test/simple2/one.test.js',
+  '--runner' ]
+
+[one.test.js]  [suman] 
+[one.test.js] Suman usage warning => Could not load your suman.globals.js file. 
+[one.test.js]  [suman] 
+[one.test.js] Error: Cannot find module '/Users/alexamil/suman-test/simple2/.suman/suman.globals.js' 
+[one.test.js]  [suman]     at Function.Module._resolveFilename (module.js:469:15)
+[one.test.js]  [suman]     at Function.Module._load (module.js:417:25)
+[one.test.js]  [suman]     at Module.require (module.js:497:17)
+[one.test.js]  [suman]     at require (internal/module.js:20:19)
+[one.test.js]  [suman]     at Object.<anonymous> (/Users/alexamil/suman-test/simple2/node_modules/suman/lib/runner-helpers/run-child.js:100:5)
+[one.test.js]  [suman]     at Module._compile (module.js:570:32)
+[one.test.js]  [suman]     at Object.Module._extensions..js (module.js:579:10)
+[one.test.js]  [suman]     at Module.load (module.js:487:32)
+[one.test.js]  [suman]     at tryModuleLoad (module.js:446:12)
+[one.test.js]  [suman]     at Function.Module._load (module.js:438:3)
+[one.test.js]  [suman 'tap-json-reporter']  "tap-json-reporter" warning: suman inception level is 0, we may not need to load this reporter.
+[one.test.js]  [suman] 
+[one.test.js] Could not load <suman.hook.js> at path "/Users/alexamil/suman-test/simple2/.suman/suman.hooks.js". 
+[one.test.js]  [suman] 
+[one.test.js] Could not load <suman.once.pre.js> at path "/Users/alexamil/suman-test/simple2/.suman/suman.once.pre.js". 
+[one.test.js]  [suman] Could not load <suman.ioc.js> file at path "/Users/alexamil/suman-test/simple2/.suman/suman.ioc.js". 
+
+[one.test.js]  [suman] 
+[one.test.js] Could not load <suman.once.post.js> file at path "/Users/alexamil/suman-test/simple2/.suman/suman.once.post.js". 
+[one.test.js]  [suman] Could not load <suman.ioc.static.js> file at path "/Users/alexamil/suman-test/simple2/.suman/suman.ioc.static.js". 
+[one.test.js]  [suman] 
+[one.test.js] client connected. 
+
+### Suman runner end ###
+
