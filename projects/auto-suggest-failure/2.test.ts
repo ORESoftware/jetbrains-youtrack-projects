@@ -8,12 +8,10 @@ Test.create(function (it: s.ItFn) {
 
   //fooagaoigeon
 
-  it.define('help')
-    .description('zoom')
-    .cb(true)
-    .run(function () {
 
-    });
+  it.define('help')
+    .cb(true)
+    .run();
 
 
   it('works', (t: s.ITestCaseParam) => {
