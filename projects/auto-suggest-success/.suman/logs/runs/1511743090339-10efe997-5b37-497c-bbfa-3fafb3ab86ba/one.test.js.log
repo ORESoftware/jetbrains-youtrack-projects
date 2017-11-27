@@ -1,0 +1,31 @@
+
+  [1m[32m [1] [1m✔[1m[39m 'works' (1ms)[22m
+
+
+
+	[90m.----------------------------------------------------------------------------------------.[39m
+	[90m|                               Results for: /one.test.js                                |[39m
+	[90m|----------------------------------------------------------------------------------------|[39m
+	[90m|            Metric             |       Value       |              Comments              |[39m
+	[90m|-------------------------------|-------------------|------------------------------------|[39m
+	[90m| Status                        | Ran to completion |                                    |[39m
+	[90m| Num. of Unskipped Test Blocks |                 1 |                                    |[39m
+	[90m| Test blocks skipped           |                 - |                                    |[39m
+	[90m| Hooks skipped                 |                 - |                                  - |[39m
+	[90m| Hooks stubbed                 |                 - |                                  - |[39m
+	[90m| --------------------------    |               --- |                                  - |[39m
+	[90m| Tests skipped                 |                 - |                                    |[39m
+	[90m| Tests stubbed                 |                 - |                                    |[39m
+	[90m| Tests passed                  |                 1 |                                    |[39m
+	[90m| Tests failed                  |                 - |                                    |[39m
+	[90m| Tests total                   |                 1 |                                    |[39m
+	[90m| --------------------------    |               --- |                                  - |[39m
+	[90m| Passing rate                  |           100.00% |                                    |[39m
+	[90m| Actual time millis (delta)    |                16 |                                  - |[39m
+	[90m| Actual time seconds (delta)   |            0.0160 |                                  - |[39m
+	[90m| Total time millis (delta)     |               136 |                                  - |[39m
+	[90m| Total time seconds (delta)    |            0.1360 |                                  - |[39m
+	[90m'----------------------------------------------------------------------------------------'[39m
+
+
+this is the end of the Suman test stream.
