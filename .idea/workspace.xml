@@ -2,34 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67c5f1a6-a50e-492d-934c-41c6cf2b7da2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/auto-suggest-failure/package-lock.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/auto-suggest-success/.idea/auto-suggest-success.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/auto-suggest-success/.idea/dbnavigator.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/auto-suggest-success/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/auto-suggest-success/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/auto-suggest-success/.suman/gantt-4.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/auto-suggest-success/.suman/logs/runner-debug.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/auto-suggest-success/.suman/logs/runs/1511743090339-10efe997-5b37-497c-bbfa-3fafb3ab86ba/one.test.js.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/auto-suggest-success/.suman/logs/runs/1511743110140-8c124491-802a-4dde-97d4-1f5a80bbc239/one.test.js.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/auto-suggest-success/.suman/logs/runs/1511743202299-f67995e4-21da-4059-9b28-9dc68e50b697/one.test.js.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/auto-suggest-success/.suman/logs/test-debug.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/auto-suggest-success/2.test.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/auto-suggest-success/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/auto-suggest-success/one.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/auto-suggest-success/package-lock.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/auto-suggest-success/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/auto-suggest-success/tsconfig.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/git/push.sh" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/projects/auto-suggest-failure/.idea/dictionaries/alexamil.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/projects/auto-suggest-failure/.idea/jsLibraryMappings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/projects/auto-suggest-failure/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/projects/auto-suggest-failure/.idea/typescript-compiler.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/projects/auto-suggest-failure/.idea/watcherTasks.xml" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/auto-suggest-failure/.idea/simple2.iml" afterPath="$PROJECT_DIR$/projects/auto-suggest-failure/.idea/auto-suggest-failure.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects/auto-suggest-failure/.idea/dbnavigator.xml" afterPath="$PROJECT_DIR$/projects/auto-suggest-failure/.idea/dbnavigator.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects/auto-suggest-failure/.idea/modules.xml" afterPath="$PROJECT_DIR$/projects/auto-suggest-failure/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects/auto-suggest-failure/.idea/workspace.xml" afterPath="$PROJECT_DIR$/projects/auto-suggest-failure/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects/auto-suggest-failure/2.test.ts" afterPath="$PROJECT_DIR$/projects/auto-suggest-failure/2.test.ts" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -47,8 +19,8 @@
       <file leaf-file-name="2.test.ts" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/projects/auto-suggest-failure/2.test.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="2" lean-forward="false" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+            <state relative-caret-position="120">
+              <caret line="8" column="2" lean-forward="false" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -58,7 +30,7 @@
         <entry file="file://$PROJECT_DIR$/projects/auto-suggest-success/2.test.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="345">
-              <caret line="23" column="3" lean-forward="true" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
+              <caret line="23" column="3" lean-forward="false" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -88,8 +60,9 @@
     <handled-path value="$PROJECT_DIR$/projects/auto-suggest-success/node_modules" />
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1680" />
-    <option name="height" value="1050" />
+    <option name="y" value="22" />
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -168,12 +141,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1511756083448</updated>
-      <workItem from="1511756084695" duration="277000" />
+      <workItem from="1511756084695" duration="2545000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="277000" />
+    <option name="totallyTimeSpent" value="2545000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -188,7 +161,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32958034" sideWeight="0.4978903" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32958034" sideWeight="0.4978903" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -214,15 +187,15 @@
     <entry file="file://$PROJECT_DIR$/projects/auto-suggest-success/2.test.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
-          <caret line="23" column="3" lean-forward="true" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
+          <caret line="23" column="3" lean-forward="false" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/projects/auto-suggest-failure/2.test.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="2" lean-forward="false" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+        <state relative-caret-position="120">
+          <caret line="8" column="2" lean-forward="false" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
           <folding />
         </state>
       </provider>
